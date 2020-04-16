@@ -1,7 +1,27 @@
 {
-  "adfsadf asfdasdf": {
-    "firstName": "adfsadf",
-    "lastName": "asfdasdf",
-    "phoneNumber": "asfdsf"
+  "John Doe": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "1234"
+  },
+  "Fred Smith": {
+    "firstName": "Fred",
+    "lastName": "Smith",
+    "phoneNumber": "40123"
+  },
+  "Luke Sky": {
+    "firstName": "Luke",
+    "lastName": "Sky",
+    "phoneNumber": "99012"
+  },
+  "Yoda Dda": {
+    "firstName": "Yoda",
+    "lastName": "Dda",
+    "phoneNumber": "1234"
+  },
+  "Leia Alderon": {
+    "firstName": "Leia",
+    "lastName": "Alderon",
+    "phoneNumber": "12341"
   }
 }
